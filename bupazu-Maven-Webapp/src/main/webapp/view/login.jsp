@@ -143,7 +143,7 @@
 			<li><a href="owner_message_list.html"
 				class="am-btn am-icon-comments-o am-icon-md"><br>消息</a>
 			</li>
-			<li><a href="owner_person_center.html"
+			<li><a href="owner_person_center.jsp"
 				class="am-btn am-icon-user-secret am-icon-md"><br>我的</a>
 			</li>
 			<li data-am-modal="{target:'#subMenu_info'}"><a
