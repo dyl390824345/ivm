@@ -222,6 +222,7 @@ $(document).ready(function(){
 		 data:"name="+name+"&password="+password+"&yonghushenfen="+yonghushenfen,
 		 dataType:"json",
 		 success:function(data) {
+		 		alert("登录成功！");
 		 		window.location="index.jsp";
 		 },
 		 error:function(data){
@@ -235,3 +236,4 @@ $(document).ready(function(){
 </script>
 </body>
 </html>
+<!-- this is a test html -->
