@@ -215,7 +215,6 @@ $(document).ready(function(){
 		} else{
 			yonghushenfen=1;
 			}
-		alert(name+"as"+yonghushenfen);
 	$.ajax({
 		 type:"POST",   //http请求方式
 		 url:"<%=request.getContextPath()%>/login.do?method=login",
