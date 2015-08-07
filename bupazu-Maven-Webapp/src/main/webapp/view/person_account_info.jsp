@@ -91,7 +91,7 @@
            <span class="am-icon-angle-right right-arrow-icon"></span></a>
 		</li>     
 		
-		<li><a href="person_authentication.html">&nbsp;实名认证:&nbsp;&nbsp;
+		<li><a href="person_authentication.jsp">&nbsp;实名认证:&nbsp;&nbsp;
            <span><font color="#999999">未认证</font></span>
            <span class="am-icon-angle-right right-arrow-icon"></span></a>
 		</li> 
