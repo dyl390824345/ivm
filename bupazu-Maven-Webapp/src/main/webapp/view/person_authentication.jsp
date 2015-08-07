@@ -1,3 +1,5 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	pageEncoding="UTF-8"%>
 <!doctype html>
 <html class="no-js">
 <head>
@@ -12,24 +14,24 @@
 
 <!-- Add to homescreen for Chrome on Android -->
 <meta name="mobile-web-app-capable" content="yes">
-<link rel="icon" sizes="192x192" href="assets/images/app-icon72x72@2x.png">
+<link rel="icon" sizes="192x192" href="<%=request.getContextPath() %>/assets/images/app-icon72x72@2x.png">
 
 <!-- Add to homescreen for Safari on iOS -->
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black">
 <meta name="apple-mobile-web-app-title" content="Amaze UI"/>
-<link rel="apple-touch-icon-precomposed" href="assets/images/app-icon72x72@2x.png">
+<link rel="apple-touch-icon-precomposed" href="<%=request.getContextPath() %>/assets/images/app-icon72x72@2x.png">
 
 <!-- Tile icon for Win8 (144x144 + tile color) -->
-<meta name="msapplication-TileImage" content="assets/i/app-icon72x72@2x.png">
+<meta name="msapplication-TileImage" content="<%=request.getContextPath() %>/assets/i/app-icon72x72@2x.png">
 <meta name="msapplication-TileColor" content="#0e90d2">
 
-<link rel="stylesheet" href="assets/css/amazeui.min.css">
-<link rel="stylesheet" href="assets/css/app.css">
+<link rel="stylesheet" href="<%=request.getContextPath() %>/assets/css/amazeui.min.css">
+<link rel="stylesheet" href="<%=request.getContextPath() %>/assets/css/app.css">
 
-<script src="assets/js/jquery.min.js"></script>
-<script src="assets/js/amazeui.min.js"></script>
-<script src="assets/js/app_photo.js"></script>
+<script src="<%=request.getContextPath() %>/assets/js/jquery.min.js"></script>
+<script src="<%=request.getContextPath() %>/assets/js/amazeui.min.js"></script>
+<script src="<%=request.getContextPath() %>/assets/js/app_photo.js"></script>
 
 </head>
 
