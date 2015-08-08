@@ -222,7 +222,7 @@ $(document).ready(function(){
 		 dataType:"json",
 		 success:function(data) {
 		 		alert("登录成功！");
-		 		window.location="index.jsp";
+		 		window.location="owner_person_center.jsp";
 		 },
 		 error:function(data){
 		 	alert("用户名和密码不正确!") ;
