@@ -86,7 +86,7 @@
            <span class="am-icon-angle-right right-arrow-icon"></span></a>
 		</li>
         
-        <li><a href="phonenumber_modify.html">&nbsp;手机认证:&nbsp;&nbsp;
+        <li><a href="phonenumber_modify.jsp">&nbsp;手机认证:&nbsp;&nbsp;
            <span><font color="#999999">185****5624</font></span>
            <span class="am-icon-angle-right right-arrow-icon"></span></a>
 		</li>     
