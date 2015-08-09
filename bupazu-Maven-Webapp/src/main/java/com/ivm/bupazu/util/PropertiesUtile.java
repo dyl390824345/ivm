@@ -18,12 +18,12 @@ import java.util.ResourceBundle;
  *  
  * PropertiesUtil.java 
  */  
-public class PropertiesUtil {    
+public class PropertiesUtile{    
     
     private Properties props;    
     private URI uri;  
       
-    public PropertiesUtil(String fileName){    
+    public PropertiesUtile(String fileName){    
         readProperties(fileName);    
     }    
     private void readProperties(String fileName) {    
